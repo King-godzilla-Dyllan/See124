@@ -1,0 +1,33 @@
+.copy_right_footer {
+    position: fixed;
+    color: black;
+    bottom: 10;
+    width: 100%;
+    background-color: whitesmoke;
+    line-height: 3;
+    text-align: center;
+    box-shadow: 5px 5px 5px orange;
+}
+
+canvas
+{
+    border: 5px solid wheat;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px black;
+}
+
+.blue
+{
+    font-size: 45px;
+    text-align: center;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px darkblue;
+}
+
+.green
+{
+    text-align: center;
+    font-size: 14px;
+    color: greenyellow;
+}
